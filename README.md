@@ -2,6 +2,8 @@
 
 This MATLAB project focuses on implementing path planning using the Rapidly-exploring Random Tree (RRT) algorithm for a mobile robot in an environment with obstacles. The code reads an image of the environment, processes it to detect obstacles, plans a path from a starting point to a specified goal, and visualizes the path found by the RRT algorithm.
 
+![image](https://github.com/user-attachments/assets/302d022d-7b4c-4dd6-b352-350cddc08715)
+
 ## Getting Started
 
 ### Prerequisites
@@ -29,6 +31,8 @@ filename = '/path/to/your/Data.xlsx'; % Replace '/path/to/your/Data.xlsx' with t
 
 6. Run the script in MATLAB. This will execute the mobile robot project code.
 
+![image](https://github.com/user-attachments/assets/b1981f26-549f-4b3f-8bc1-69c208a7e0ff)
+
 ## Functionality
 
 - **Image Import:** The code prompts the user to select an image file (e.g., `.jpg`, `.png`) that represents the environment where the robot navigates. Select the file named "RoomImage".
@@ -40,6 +44,10 @@ filename = '/path/to/your/Data.xlsx'; % Replace '/path/to/your/Data.xlsx' with t
 - **Visualization:** The code visualizes the detected obstacles, the planned path, and the robot's trajectory on the map.
 
 - **Excel Data Analysis:** The code reads and analyzes data from an Excel file "Data.xlsx" related to obstacle distances detected by the robot.
+
+![image](https://github.com/user-attachments/assets/abfde981-b45f-407d-9ed1-2cf79623f295)
+
+![image](https://github.com/user-attachments/assets/0f632bc7-a2b7-446f-b4cd-2dd7616e2daf)
 
 ## Data File
 
@@ -64,7 +72,7 @@ https://youtu.be/QR3U1dgc5RE?si=DEVVnwrChGER6CrS
 
 ## Contact Information
 
-For any inquiries or assistance regarding this project, feel free to contact ue:
+For any inquiries or assistance regarding this project, feel free to contact us:
 
 - Email: Baseldawoud@gmail.com
 - WhatsApp: +20 102 181 1895
